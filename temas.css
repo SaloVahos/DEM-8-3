@@ -1,17 +1,34 @@
-.contenedor{
+.conte1{
 
-width: 1000px;
-height: 100px;
-background-color: rgb(146, 106, 184);
+width: 100%;
 
+height: 200px;
+
+background-color: rgb(172, 94, 246);
+
+text-align: center;
+
+font-size: 40px;
 
 }
 
-.texto-1{
+.conte2{
 
-width: 700px;
-height: 50px;
-background-color: rgb(122, 167, 252);
+    width: 100%;
+
+    height: 200px;
+    
+    background-color: rgb(60, 76, 200);
+
+}
+
+.conte3{
+
+    width: 100%;
+
+    height: 200px;
+    
+    background-color: rgb(225, 62, 62);
 
 
 }
