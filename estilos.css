@@ -21,4 +21,15 @@ body{
     font-size: 50px;
     color: rgb(0, 2, 118);
     text-align: center;
+
 }
+
+
+.imagent{
+
+
+    height: 300px;
+    width: 350px;
+    background-image: url("circuitos.jpg");
+    }
+
