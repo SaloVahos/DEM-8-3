@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .principal{
@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url(piraña.jpg);
+    background-image: url("fondo.jpg");
     background-repeat: no-repeat;
 
 
@@ -33,5 +33,12 @@ body{
     width: 350px;
     background-image: url("circuitos.jpg");
     float: left;
+    }
+
+    .img1{
+
+        height: 300px;
+        width: 300px;
+        background-image: url("anorexia.jpg");
     }
 
