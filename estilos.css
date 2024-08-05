@@ -136,9 +136,10 @@ body{
     }
 
     .img15{
-        height: 441px;
-        width: 789px;
+        height: 789px;
+        width: 441px;
         background-image: url("sociales.png");
+
     }
 
 
