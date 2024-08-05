@@ -66,11 +66,80 @@ body{
     }        
 
     .img5{  
-      height: 200px;
+      height: 133px;
       width: 200px;
       background-image: url("vegetales.jpg");
 
+    }
 
+    .img6{
+
+      height: 125px;
+      width: 200px;
+      background-image: url("dormir.jpg");
+
+    }
+
+    .img7{
+      height: 112px;
+      width: 200px;
+      background-image: url("higene.jpg");
+
+    }
+
+    .img8{
+       height: 97px;
+       width: 200px;
+       background-image: url("leer.jpg");
+
+    }
+
+
+    .img9{   
+      height: 122px;
+      width: 200px;
+      background-image: url("fumar.jpg");
+    }
+
+    .img10{
+      height: 200px;
+      width: 200px;
+      background-image: url("comida-chatarra.jpg");
 
     }
     
+
+    .img11{ 
+        height: 100px;
+        width: 200px;
+        background-image: url("sedentaria.png");
+    }
+
+    .img12{
+        height: 139px;
+        width: 200px;
+        background-image: url("pantallas.jpg");
+    }
+
+    .img13{
+        height: 105px;
+        width: 200px;
+        background-image: url("insomnio.jpg");
+    }
+
+
+    .img14{
+        height: 112px;
+        width: 200px;
+        background-image: url("comidas.jpeg");
+
+    }
+
+    .img15{
+        height: 441px;
+        width: 789px;
+        background-image: url("sociales.png");
+    }
+
+
+ 
