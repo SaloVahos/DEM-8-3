@@ -5,7 +5,7 @@
     font-size: 40px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(244, 237, 237);
+    color: rgb(2, 2, 2);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -13,13 +13,13 @@
      
 }
 body{
-    background-image: url("fondos.jpg");
+    background-image: url("fondo.jpg");
    
 
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: rgb(158, 0, 113);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
