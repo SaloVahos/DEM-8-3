@@ -39,3 +39,42 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+
+
+.imgn1{
+    height: 500px;
+    width: 500px;
+    background-image: url(SUMA.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+
+
+.imgn2{
+    height: 700px;
+    width: 900px;
+    background-image: url(SI.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+
+.imgn3{
+    height: 500px;
+    width: 500px;
+    background-image: url(BUSCARV.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+
+.imgn4{
+    height: 500px;
+    width: 500px;
+    background-image: url(CONTAR.png);
+    background-repeat: no-repeat;
+    float: left;
+}
