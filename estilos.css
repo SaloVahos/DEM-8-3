@@ -78,3 +78,22 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+
+.imgcon{
+    height: 1000px;
+    width: 1200px;
+    background-image: url(contactos.webp);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+
+.imgin{
+    height: 655px;
+    width: 1150px;
+    background-image: url(inicio.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
