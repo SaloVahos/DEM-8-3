@@ -2,11 +2,11 @@
 
 .texto{
    
-    font-size: 40px;
-    padding-top: 140px;
+    font-size: 38px;
+    padding-top: 120px;
     text-align: justify;
     color: rgb(2, 2, 2);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .principal{
    display: flex;
@@ -19,9 +19,9 @@ body{
 }
 .titulo{
 font-size: 60px;
-color: rgb(158, 0, 113);
+color: rgb(236, 102, 189);
 text-align: center;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 
 }
 
@@ -63,7 +63,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 .imgn3{
-    height: 500px;
+    height: 400px;
     width: 500px;
     background-image: url(BUSCARV.png);
     background-repeat: no-repeat;
@@ -95,5 +95,73 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url(inicio.jpeg);
     background-repeat: no-repeat;
     float: left;
+
+}
+
+.imgsoc{
+    height: 655px;
+    width: 1250px;
+    background-image: url(mapa.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.imging{
+    height: 513px;
+    width: 900px;
+    background-image: url(paz.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img1in{
+    height: 384px;
+    width: 500px;
+    background-image: url(demas.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img2in{
+    height: 450px;
+    width: 500px;
+    background-image: url(hablar.jpeg);
+    background-repeat: no-repeat;
+    
+}
+
+
+.img3in{
+    height: 300px;
+    width: 400px;
+    background-image: url(opinion.jpeg);
+    background-repeat: no-repeat;
+    
+
+}
+
+.img4in{
+    height: 400px;
+    width: 400px;
+    background-image: url(violencia.jpeg);
+    background-repeat: no-repeat;
+    
+}
+
+.img5in{
+    height: 400px;
+    width: 400px;
+    background-image: url(identidad.jpeg);
+    background-repeat: no-repeat;
+
+}
+
+.img6in{
+    height: 362px;
+    width: 400px;
+    background-image: url(estereotipos.jpeg);
+    background-repeat: no-repeat;
 
 }
