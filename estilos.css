@@ -25,6 +25,19 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 
 }
 
+.tit{
+    font-size: 38px;
+    padding-top: 120px;
+    text-align: justify;
+    color: rgb(231, 94, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+
+
+
+
 .img1{
     height: 193px;
     width: 300px;
@@ -90,7 +103,7 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 
 
 .imgin{
-    height: 655px;
+    height: 670px;
     width: 1150px;
     background-image: url(inicio.jpeg);
     background-repeat: no-repeat;
@@ -125,7 +138,7 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 .img2in{
-    height: 450px;
+    height: 350px;
     width: 500px;
     background-image: url(hablar.jpeg);
     background-repeat: no-repeat;
